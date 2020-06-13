@@ -69,7 +69,7 @@ Book Application
   $ npm run test
   ```
 
-
+---
 ## Author
 
 - Steven Victor
